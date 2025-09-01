@@ -1,12 +1,12 @@
 ---
-title: Diya Garg — UI/UX Designer & CS Student
+title: Diya Garg
 ---
 
 # Hi, I'm **Diya Garg**
 
 Computer Science student @ **Thapar Institute of Engineering and Technology (2024–2028)**  
-UI/UX Designer passionate about crafting intuitive, elegant digital experiences  
-Exploring **Kotlin** for Android app development  
+**UI/UX Designer** passionate about crafting intuitive, elegant digital experiences  
+Exploring Kotlin for Android app development  
 
 ---
 
@@ -24,8 +24,9 @@ I love transforming ideas into interactive designs and am eager to collaborate o
 ---
 
 ## Experience
-**Junior Designer** — ACM Thapar Student Chapter  
-*Oct 2024 – Present*  
+**Designer** — ACM Thapar Student Chapter  
+*Oct 2024 – Present* 
+
 
 ---
 
@@ -49,14 +50,16 @@ I love transforming ideas into interactive designs and am eager to collaborate o
 ## Achievements
 - Winner — *Flamingo Design Competition (Best UI Design)*  
 - Designed a hackathon event website  
-- Contributed creative content for **ACM Thapar’s official Instagram**  
+- Contributed creative content for **ACM Thapar’s official Instagram**
+- **Lead design bootcamps** to teach juniors basic UI/UX principles in figma  
 
 ---
 
 ## Contact
 - Email: [diyagarg161@gmail.com](mailto:diyagarg161@gmail.com)  
 - LinkedIn: [linkedin.com/in/diyagarg16](https://www.linkedin.com/in/diyagarg16/)  
-- GitHub: [github.com/diya0116](https://github.com/diya0116)  
+- GitHub: [github.com/diya0116](https://github.com/diya0116)
+- Figma Portfolio: [Full Portfolio on Figma](https://figmashort.link/MciQZa) 
 
 ---
 *Thanks for visiting my portfolio!*
